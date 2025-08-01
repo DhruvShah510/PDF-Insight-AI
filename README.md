@@ -33,6 +33,7 @@ A Streamlit-based web app that lets you **ask questions about your PDF** documen
 - .gitignore
   
 ## 📦 Installation
+- **Create a new folder**
 - **Clone the repo**: git clone https://github.com/DhruvShah510/PDF-Insight-AI.git
 - **(Optional) Create virtual environment** : python -m venv venv
 - **activate virtual environment** : source venv/bin/activate    # On Windows: venv\Scripts\activate
