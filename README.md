@@ -1,4 +1,4 @@
-# PDF-Insight-AI
+# PDF-Query-AI-System
 Ask questions from any PDF instantly using AI. Upload a PDF , and get smart answers powered by LLMs. Built with Python, Streamlit, and LangChain.
 A Streamlit-based web app that lets you **ask questions about your PDF** documents using LLMs and vector-based retrieval. Upload a PDF (max 20 pages), and ask anything about its contents – answers are generated contextually using a custom RAG (Retrieval-Augmented Generation) pipeline.
 
